@@ -1,4 +1,4 @@
-# C# Anime Website
+# React+Tailwind# Anime Website
 * Natdanai Wongsa
 ### <ins> </ins> 
 <img src="images/image1.png" alt="image1" width="820" height="1000" align="center"/>
