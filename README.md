@@ -1,7 +1,7 @@
 # C# Anime Website
 * Natthadanai Wongsa
 ### <ins> </ins> 
-<img src="images/image1.png" alt="tailwind" width="760" height="500" align="center"/>
+<img src="images/image1.png" alt="tailwind" width="760" height="1000" align="center"/>
 
 ### <ins> </ins> 
 <img src="images/image2.png" alt="tailwind" width="760" height="500" align="center"/>
